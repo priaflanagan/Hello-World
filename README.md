@@ -1,2 +1,2 @@
 # Hello-World
-Trying to find code that recognized positive and negative language and similar wording
+Trying to find code that recognizes positive and negative language and similar wording
